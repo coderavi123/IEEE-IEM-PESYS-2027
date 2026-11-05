@@ -15,12 +15,12 @@ const committeeSections: {
     title: "Advisory Chair",
     members: [
       {
-        name: "Dr. Satyajit Chakrabarti",
+        name: "Prof. Dr. Satyajit Chakrabarti",
         role: "Advisory Chair",
         photo: "/committee/satyajit-chakrabarty1.jpg",
       },
       {
-        name: "Dr. Banani Chakrabarti",
+        name: "Prof. Dr. Banani Chakrabarti",
         role: "Advisory Chair",
         photo: "/committee/banani-chakrabarty.jpg",
       },

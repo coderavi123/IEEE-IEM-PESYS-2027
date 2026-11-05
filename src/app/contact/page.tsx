@@ -330,7 +330,7 @@ export default function ContactPage() {
               </h3>
 
               <p className="mt-3 leading-7 text-slate-600">
-                Official conference email information will be published here.
+                Official email for all communication
               </p>
             </div>
 
